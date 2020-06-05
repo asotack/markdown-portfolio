@@ -1,1 +1,8 @@
-Replace this with a list of your favorite things.
+1. Coisas favoritas:
+  * Ler
+  * Jogar
+  * Dormir
+2. Comidas favoritas:
+  * Churrasco
+  * Pizza
+  * Sushi
